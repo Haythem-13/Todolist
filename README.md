@@ -20,6 +20,7 @@ Features:
 
 **HTM*L:** *Structure the content of the application for clarity and organization.*
 
+
 **Getting Started:**
 
 Clone the repository: git clone <[repository-url](https://github.com/Haythem-13/weather-app)>
@@ -31,6 +32,7 @@ Install dependencies: npm install
 Initiate the development server: npm start
 
 Access the application at http://localhost:3000
+
 
 **Contribution:**
 We welcome contributions! Feel free to open issues or submit pull requests to enhance the project further.
