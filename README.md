@@ -12,13 +12,13 @@ Features:
 **Secure Data Storage**: Your tasks are securely stored for convenient access whenever required.
 <h2>Technologies Employed:</h2> 
 
-**ReactJS*: Craft dynamic and interactive user interfaces.
+**ReactJS**: *Craft dynamic and interactive user interfaces.*
 
-*JavaScript*: Implement application logic for seamless functionality.
+**JavaScript**: *Implement application logic for seamless functionality.*
 
-*CSS*: Design visually appealing layouts to enhance user experience.
+**CSS**: *Design visually appealing layouts to enhance user experience.*
 
-*HTM*L: Structure the content of the application for clarity and organization.
+**HTM*L:** *Structure the content of the application for clarity and organization.*
 
 **Getting Started:**
 
